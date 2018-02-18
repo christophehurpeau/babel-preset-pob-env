@@ -1,5 +1,7 @@
 # babel-preset-pob-env [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-preset-pob-env.svg)](https://greenkeeper.io/)
+
 pob env babel preset
 
 [![Dependency Status][daviddm-image]][daviddm-url]
